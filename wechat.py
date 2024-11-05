@@ -9,9 +9,9 @@ import re
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # 阿里百炼密钥
-access_token = "sk-ed6c28ff06be4518ba360f6d3db352b0"
+access_token = "x'x'x'x'x"
 # 高德地图 API 密钥
-AMAP_API_KEY = "84761a51bea542a8c1565db64d1f0e8d"
+AMAP_API_KEY = "xxxxxx"
 
 # 检查访问密钥是否正确读取
 if not access_token:
@@ -24,7 +24,7 @@ ROLES = {
 
 # 用户和角色映射
 USER_ROLES = {
-    "wxid_u33r6n1yegsh22": "admin"
+    "wxid-xxxxx": "admin"
 }
 
 
